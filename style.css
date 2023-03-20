@@ -11,7 +11,7 @@ body {
     height: calc(100vh - 200px);
 }
 
-header{
+header {
     text-align: left;
 }
 
@@ -30,6 +30,14 @@ footer {
     padding-left: 400px;
 }
 
+#nav-icons {
+    padding: 5px;
+}
+
+#right-two {
+    padding-left: 15px;
+}
+
 main {
     text-align: center;
 }
@@ -38,9 +46,7 @@ main {
     width: 1000px;
 }
 
-#small-image{
-
-}
+#small-image {}
 
 ul {
     text-align: left;
